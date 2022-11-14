@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+}
+
+.bar {
+    height: 120px;
+    background-color: #EB4343;
+}
+
+.title {
+    margin: 41px 30px;
+    float: left;
+    color: #fff;
+}
+
+.button {
+    margin: 45px 30px;
+    text-decoration: none;
+    float: right;
+    padding: 6px 12px;
+    background-color: #5373E2;
+    color: #fff;
+    border: 1px solid #35f;
+    border-radius: 6px;
+}
+
+.card {
+    position: relative;
+    /*background-color: blue;*/
+    width: 30%;
+    margin-left: 35%;
+    top: -70px;
+}
+
+.card .name {
+    margin: 0;
+    text-align: center;
+    margin-top: 12px;
+}
+
+.card .image  {
+    /*background-color: blue;*/
+    height: 200px;
+    overflow: hidden;
+
+}
+
+.card .image img {
+    width: 100%;
+    /*margin-top: -15px;*/
+}
+
+.card .skills {
+    background-color: #E5E5E5;
+    margin: 8px 0px;
+    padding: 16px;
+    text-align: center;
+    border-radius: 10px;
+}

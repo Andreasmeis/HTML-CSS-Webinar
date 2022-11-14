@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+}
+
+.menu {
+    /*background-color: cyan;*/
+    height: 70px;
+    border-bottom: 1px solid #222222;
+}
+.menu .first {
+    /*background-color: #cc2244;*/
+    width: 30%;
+    height: 70px;
+    float: left;
+}
+
+.menu .first img {
+    display: block;
+    height: 80%;
+    margin: 7px auto;
+
+}
+
+
+.menu .second {
+    /*background-color: #22cc55;*/
+    width: 40%;
+    height: 70px;
+    float: left;
+    text-align: center;
+
+}
+
+.menu .second .search {
+    display: block;
+    /*background-color: red;*/
+    height: 50%;
+    width: 70%;
+    margin: 17px auto;
+}
+
+.menu .second .search input {
+    display: block;
+    background-color: #0163BE;
+    width: 80%;
+    height: 95%;
+    border: 1px solid black;
+    float: left;
+    margin-left: auto;
+    padding: 0;
+}
+
+.menu .second .search a {
+    height: 100%;
+    float: left;
+    margin-left: 15px;
+}
+
+.menu .second .search img {
+    height: 100%;
+}
+
+.menu .third {
+    /*background-color: #2255cc;*/
+    width: 30%;
+    height: 70px;
+    float: left;
+    vertical-align: top;
+    text-align: center;
+}
+
+.menu .third .login {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #222;
+    border: 1px solid #222;
+    padding: 6px 8px;
+    margin-top: 19px;
+}
+
+.menu .third .cart {
+    display: inline-block;
+    text-decoration: none;
+    padding: 6px 8px;
+    border: 1px solid red;
+    margin-top: 19px;
+}
+
+.photo img {
+    min-width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
