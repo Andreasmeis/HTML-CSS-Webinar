@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 
-html,
-#app,
+
 body {
     margin: 0px;
-    height: 100%;
     font-family: 'Manrope', sans-serif;
 }
 
+#app {
+    height: 100vh;
+}
 
 .left {
     /*background-color: #0f0;*/
